@@ -40,13 +40,4 @@ Special thanks to **Ritik Dwivedi Sir**, my mentor, for his consistent support a
 
 ---
 
-## 📂 Project Structure
-📁 CASIO-Calculator/
-├── index.html
-├── style.css
-├── script.js
-├── CASIO.mp4
-├── preview.png
-└── README.md
-
-#Thanks
+## 📂 Thanks
