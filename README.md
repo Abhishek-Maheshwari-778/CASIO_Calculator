@@ -11,7 +11,7 @@ Create an responsive web design with basic funcinilaty of CASIO calculator
 
 > Click below to watch a quick preview of the calculator in action.
 
-[🎥 Watch CASIO.mp4](CASIO.mp4)  
+[🎥 Watch CASIO.mp4](https://raw.githubusercontent.com/Abhishek-Maheshwari-778/CASIO_Calculator/main/CASIO.mp4)  
 *(If the video doesn't autoplay in your browser, download and play locally.)*
 
 ---
